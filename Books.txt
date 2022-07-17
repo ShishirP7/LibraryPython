@@ -1,0 +1,7 @@
+Harry Potter,JK Rowling,30,$2.0
+Start With Why,Simon Sinek,20,$1.5
+Programming With Python,John Smith,10,$1.5
+The Magicians,Lev Grossman,19,$2.0
+The Kane Chronicles,Rick Riordan,15,$3.5
+Eyes Like Stars,Lisa Mantchev,12,$4.0
+Neverwhere,Neil Gaiman,25,$2.5
